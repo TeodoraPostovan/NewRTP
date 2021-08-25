@@ -1,6 +1,13 @@
 # Laboratories
 
-**TODO: Add description**
+## First Laboratory
+
+1. Read 2 SSE streams of actual Twitter API tweets in JSON format using the following project: https://github.com/cwc/eventsource_ex;
+2. Create: Worker, Router, Connection, WorkerSupervisor;
+3. WorkerSupervisor is implemented as DynamicSupervisor;
+4. Implement feature for getting text of every tweet;
+5. Implement a counter for the sentiment score of every tweet
+5. Videos:
 
 ## Installation
 
