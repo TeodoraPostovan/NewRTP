@@ -7,7 +7,7 @@
 3. WorkerSupervisor is implemented as DynamicSupervisor;
 4. Implement feature for getting text of every tweet;
 5. Implement a counter for the sentiment score of every tweet
-5. Videos:
+6. Video attached in the repository under name Demo1Lab1 and Demo2Lab
 
 ## Installation
 
